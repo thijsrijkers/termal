@@ -4,9 +4,9 @@ Termal adds wild creature encounters to your terminal. Every time you run a comm
 
 Your progress is saved on disk, so closing your terminal or restarting your PC will not lose your caught Termals or your enabled/disabled setting.
 
-![Example](example.png)
-
 ---
+
+<img src="example.png" width="300"/>
 
 ## How it works
 
